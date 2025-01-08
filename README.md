@@ -6,12 +6,12 @@ A Telegram bot that helps you find cryptocurrency arbitrage opportunities across
 
 ## Created By 👨‍💻
 
-Built with ❤️ by [@DappChef](https://t.me/DappChef) on Telegram. Feel free to reach out if you:
-- Have questions about the bot
-- Need help with setup
-- Want to discuss crypto trading
-- Have suggestions for improvements
-- Just want to connect!
+Built by [@DappChef](https://t.me/DappChef) on Telegram. Feel free to reach out if you:
+- Need help with the setup
+- Want to discuss custom bot development
+- Have feature suggestions
+- Are interested in collaboration opportunities
+- Need assistance with other development projects
 
 ## Features ✨
 
@@ -21,20 +21,6 @@ Built with ❤️ by [@DappChef](https://t.me/DappChef) on Telegram. Feel free t
 - User-friendly interface with inline buttons
 - Detailed profit calculations per trade
 - Support for multiple cryptocurrencies
-
-## Supported Exchanges 📊
-
-- Binance Futures
-- Coinbase
-- Bitstamp
-- Bybit
-- OKX
-- Gemini
-- Gate.io
-- Bitget
-- Crypto.com
-- XT.com
-- Phemex
 
 ## Prerequisites 📋
 
@@ -48,7 +34,7 @@ Built with ❤️ by [@DappChef](https://t.me/DappChef) on Telegram. Feel free t
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/crypto-arbitrage-bot.git
+git clone https://github.com/Dappzy/Cryopto-Arbitrage-Checker-Telegram-Bot.git
 cd crypto-arbitrage-bot
 ```
 
@@ -68,7 +54,7 @@ npm install
 #### RapidAPI Key:
 1. Visit [Crypto Arbitrage API](https://rapidapi.com/arjunravi868/api/crypto-arbitrage5) on RapidAPI
 2. Sign up or log in to RapidAPI
-3. Subscribe to the API (choose a plan that fits your needs)
+3. Subscribe to the API
 4. Copy your RapidAPI key from the dashboard
 
 ### 4. Configure Environment Variables
@@ -100,13 +86,6 @@ npm start
    - Adjust settings (minimum profit %, number of results)
    - View help information
 
-## Settings ⚙️
-
-You can customize these settings through the bot's interface:
-
-- **Minimum Profit**: Set the minimum profit percentage to filter opportunities (default: 0.1%)
-- **Number of Results**: Choose how many opportunities to display (default: 10)
-
 ## Example Output 📊
 
 ```
@@ -117,50 +96,21 @@ You can customize these settings through the bot's interface:
 💱 Sell: $47463.80 at Bybit
 📈 Profit per unit: $213.55
 
-2. ETH (0.32% profit)
-💰 Buy: $2350.75 at Binance
-💱 Sell: $2358.27 at OKX
-📈 Profit per unit: $7.52
-
 [... more opportunities ...]
 ```
 
 ## Contributing 🤝
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/yourusername/crypto-arbitrage-bot/issues).
+Contributions are welcome! Feel free to:
+- Fork the repository
+- Create a feature branch
+- Submit a pull request
 
-## License 📝
+## Support & Contact 💬
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Disclaimer ⚠️
-
-This bot is for informational purposes only. Cryptocurrency trading carries significant risks. Always do your own research and never trade more than you can afford to lose. Price differences between exchanges may not be actionable due to factors such as:
-
-- Trading fees
-- Withdrawal fees
-- Transfer times
-- Minimum trade amounts
-- Exchange restrictions
-- Market liquidity
-
-## Support 💬
-
-If you have any questions or need help, you can:
-- Reach out to me directly on Telegram [@DappChef](https://t.me/DappChef)
-- Open an issue on GitHub
-- Send me a message on Twitter (if available)
-
-I'm always happy to help and discuss crypto trading strategies!
+Need help or interested in custom development work? 
+Reach out to me on Telegram [@DappChef](https://t.me/DappChef)
 
 ## Star the Project ⭐
 
-If you find this bot useful, please star the repository! It helps others discover the project and motivates further development.
-
-## Buy Me a Coffee ☕
-
-If you find this bot helpful and want to support its development, feel free to:
-- Share it with others
-- Give it a star on GitHub
-- Reach out with suggestions
-- Connect with me on Telegram [@DappChef](https://t.me/DappChef)
+If you find this project useful, please give it a star! It helps others discover the bot and supports the development.
